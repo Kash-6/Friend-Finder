@@ -5,7 +5,7 @@
 //this is the only friends that is persistent data
 var friendsArray = [
   {
-    friendName: "Sterling",
+    friendName: "Archer",
     friendImg: "http://www4.pictures.zimbio.com/mp/kHoyq4whJW6l.jpg",
     scores: [
     	4,
