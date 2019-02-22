@@ -7,4 +7,4 @@ This full stack app allows users to answer questions about themselves and upload
 
 ### Instructions
 
-Users will need to do an "npm install" in the terminal before using this application.# FriendFinder
+Users will need to do an "npm install" in the terminal before using this application. Following the npm install, the user will need to "node server.js" in terminal to create the local server before going to the localhost port in the browser, in this case, port 3000.
